@@ -1,1 +1,52 @@
-<mxfile host="app.diagrams.net" modified="2020-12-22T06:39:42.407Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="mK5PeHhLejZKn9RNJ78e" version="14.1.1" type="github"><diagram id="cTgDgX14xikcMWw0g8CN" name="第 1 页">zVhNc9owEP01OiZj+dtH25j0kE47pdMmvXQEFraDsTxCgOmvr2TL+DNAwtDmklk9rcR639OuFKD56+KBojz+TEKcAlUJC6BNgKpatsn/CuBQAbqpVkBEk7CCYAPMkj9YgopEt0mINx1HRkjKkrwLLkiW4QXrYIhSsu+6LUna/dUcRXgAzBYoHaI/k5DFFWqrVoN/wkkU178MTaeaWaPaWX7JJkYh2bcgLQCaTwlhlbUufJyK3NV5qdZNX5k9BkZxxi5ZUEwhDWcHUrjf7ecptKE1393JYHco3coPlsGyQ50BSrZZiMUmCtC8fZwwPMvRQszuOeUci9k65SPIzSXJmCQR8i/0hkHKuHeYMly0IBn0AyZrzOiBu8hZ1ZYJlAqCdUL3DR+qIrG4xYWuSxBJDUTHvZs0cUNm6g1Zs4ZZCwzgToHngMAUhqMLwzGApwjDngA3AKqZ8tC8OeVWJKxy1QQ4tjBsFbjcsIDnAUcrlwfA8Qd84JALVA4JZTGJSIbSoEG9LmONzyMhueTpBTN2kEShLSPvZHFDtnSBT2RKyknEfJJrilPEkl330I3xJpd+JQkP5agRracRTelRzxCNMJOreuwfw7hIENM1+fa0+vHrt2es4s1PPVpS5w6+UxD/nlpcJOypZT+Lre4NOZoUcudycKgHGc/OU3vQWiWGzbJyVK8b5f4qHVU0nvDTr5TXVWVBHVcBP8VuST4/2iYIdHHAvfLs2y5w4d2IMAIHuC6wfRDYQjw2HEjlTB1udHKjqqypvapsDqvysVK3q7J5q6KsD7LvfbismcpHy5o9cgG4oE31E8svN7kwF4c04Smk2vmrwrxK9uP8CKDFKiop+LJlfBss8Y3kwLiRknV9vHe0OLFGKLFvRQkcKlnUATsAnlUywLuJWXKiiisCrxW2JcAP1V+Ue9Vot5gLG4xcVfcYeKbD9OXwsl3n9QdmRCjIWyZp6pOU0DIFnFxDwUuhKkbJCndm4MTzr7rt1I+Ws23qNtcil1J0aDnk4rqzOXFrMrrVSLd6L4hz/vCMP7zOX31jPD1/blQZee9V7yTHIxVzk6OsqZnDpm4ARymbuinKqWuUPr6Yre8C9U48ss5mr7/J4H95k2nQGVXOLfoYHzaP5IrF5j8NWvAX</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-12-22T06:44:16.955Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="frE50oMQotVx7ai9Ik5n" version="14.1.1" type="github">
+  <diagram id="cTgDgX14xikcMWw0g8CN" name="第 1 页">
+    <mxGraphModel dx="786" dy="496" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="xF1rdSyoxAT8YF1817bv-9" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="280" y="120" width="200" height="440" as="geometry" />
+        </mxCell>
+        <mxCell id="FmoRXkVZ_B5khsW4gfr9-1" value="3对比外部数据" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="xF1rdSyoxAT8YF1817bv-2" target="xF1rdSyoxAT8YF1817bv-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_0y3EcO1f4_7wjKOn7lR-2" value="4存储结果" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#000000;" edge="1" parent="1" source="xF1rdSyoxAT8YF1817bv-2" target="xF1rdSyoxAT8YF1817bv-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="410" y="240" />
+              <mxPoint x="434" y="240" />
+              <mxPoint x="434" y="340" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xF1rdSyoxAT8YF1817bv-2" value="定时任务-数据验证" style="whiteSpace=wrap;html=1;rounded=1;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="320" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xF1rdSyoxAT8YF1817bv-4" value="B" style="whiteSpace=wrap;html=1;rounded=1;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="600" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xF1rdSyoxAT8YF1817bv-8" value="&lt;br&gt;存储" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="344" y="300" width="70" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xF1rdSyoxAT8YF1817bv-10" value="&lt;span&gt;数据同步服务&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="319" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_0y3EcO1f4_7wjKOn7lR-1" value="1获取增量数据" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;strokeColor=#000000;" edge="1" parent="1" source="xF1rdSyoxAT8YF1817bv-2" target="xF1rdSyoxAT8YF1817bv-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="350" y="270" />
+              <mxPoint x="320" y="270" />
+              <mxPoint x="320" y="410" />
+              <mxPoint x="349" y="410" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xF1rdSyoxAT8YF1817bv-7" value="2对比本地数据" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" parent="1" source="xF1rdSyoxAT8YF1817bv-2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="380" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
